@@ -207,7 +207,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @default
 		 * @type {?string}
 		 */
-		mainPack: null,
+		mainPack: https://github.com/trekfan42/a16z-PWA/blob/9acc46268f627e38335c24d318fb0fc3835d00e8/index.pck,
 		/**
 		 * Specify a language code to select the proper localization for the game.
 		 *

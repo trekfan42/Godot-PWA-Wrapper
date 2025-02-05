@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1738777954|3100457527';
+const CACHE_VERSION = '1738778095|3240963815';
 /** @type {string} */
 const CACHE_PREFIX = 'a16z Kiosk-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
